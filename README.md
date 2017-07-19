@@ -1,2 +1,2 @@
 # online-pmml
-online pmml with jpmml-evaluator
+machine leaning model online predict with jpmml-evaluator
